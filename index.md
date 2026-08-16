@@ -24,6 +24,65 @@ I enjoy working on hard problems. For the last ~19 years: getting autonomous sys
 - programming language design
 - humane interfaces
 
+## Research
+
+### CCDC Army Research Laboratory
+
+Aberdeen, MD  
+[https://arl.devcom.army.mil/](https://arl.devcom.army.mil/)
+
+`2007-2019`
+
+**Computer Scientist, Autonomous Systems Division, VTD**
+
+Sep 2007 - Aug 2019
+
+**Agent World Model**
+
+Modern autonomous robots are a large collection of complex algorithms working together to solve a common goal. Collecting and interpreting uncertain spatial, temporal, and semantic knowledge into a single central repository can help these algorithms operate more efficiently and, in addition, allow for more advanced reasoning (e.g., reasoning over time). We developed an agent world model that provides a central repository of knowledge based on limited modal logic and an integrative symbolic and sub-symbolic data store.
+
+**Adaptive perception processes for learning from experience**
+
+The APPLE project investigated continuous object learning systems; since it is not possible to train a robot for all future situations, instead it must be able to *learn from experience*. We hypothesized that a robot must support six conceptual components in order to be able to continuously learn about objects; these include ego-motion estimation, segmentation, flexible object representation, instance and category recognition, novelty detection, and generalization. We worked towards a benchmark and framework for evaluating continuous object learning systems, as well as proposed a set of baseline component implementations.
+
+**Multi-sensor graph calibration**
+
+Our multi-sensor graph calibration framework solved a real problem for robots: they have a wide variety of sensors mounted in multiple locations that must be fused into a single coordinate frame to most effectively use the information. Our framework utilized a novel background subtraction algorithm, geometry-based alignment features, and graph optimization to generate global relative sensor poses for an arbitrary number of sensors over three different sensor modalities on a robot.
+
+**Temporally consistent segmentation**
+
+One of the first steps in scene understanding using vision is to group pixels into larger chunks for more efficient reasoning. We performed this process of over-segmentation in 3-D and modified an existing voxel clustering algorithm to support consistent segmentations over time given effective ego-motion estimates and clouds of the environment. Temporal consistency enables incremental segmentation of an environment during exploration.
+
+**RGB-D Egomotion and Mapping**
+
+Robots need to know where they are, and one approach to this task is to estimate local motion using vision sensors and simultaneously construct a map of the environment for localization. We developed both sparse and dense implementations for ego-motion estimation, used surface elements for mapping, and GPU acceleration to produce high-resolution maps of the environment and provide accurate local motion estimation using RGB-D sensors.
+
+**Autonomous search and exploration**
+
+**Robot platform development**
+
+`2003-2007`
+
+**Computer Scientist, Software Development Branch, SLAD**
+
+Jun 2003 - Aug 2007
+
+**Joint Blast Analysis Methodology Tool**
+
+Designed and built a modular graphical tool for blast analysis experimentation.
+
+**B-Rep Ray Tracing**
+
+Researched and developed the initial boundary representation module for NURBs primitive rendering in BRL-CAD.
+
+**Exposed Objects Framework**
+
+Researched, designed, and built a GUI application framework using humane human-computer interaction principles. Implemented and integrated MUVES 3 object store with Hibernate as an object-relational mapper.
+
+**RVis (Results Visualizer)**
+
+Designed and developed a prototype 3D vulnerability results viewer for efficiently displaying and querying analysis results. Received enthusiastic feedback during prototype demonstrations.
+
 ## Education
 
 `2009-2019`
@@ -145,64 +204,6 @@ __Portablehole.net__
 
 - Various web and internal Java Swing applications for Ingram Micro
 
-## Research
-
-### CCDC Army Research Laboratory
-
-Aberdeen, MD  
-[https://arl.devcom.army.mil/](https://arl.devcom.army.mil/)
-
-`2007-2019`
-
-**Computer Scientist, Autonomous Systems Division, VTD**
-
-Sep 2007 - Aug 2019
-
-**Agent World Model**
-
-Modern autonomous robots are a large collection of complex algorithms working together to solve a common goal. Collecting and interpreting uncertain spatial, temporal, and semantic knowledge into a single central repository can help these algorithms operate more efficiently and, in addition, allow for more advanced reasoning (e.g., reasoning over time). We developed an agent world model that provides a central repository of knowledge based on limited modal logic and an integrative symbolic and sub-symbolic data store.
-
-**Adaptive perception processes for learning from experience**
-
-The APPLE project investigated continuous object learning systems; since it is not possible to train a robot for all future situations, instead it must be able to *learn from experience*. We hypothesized that a robot must support six conceptual components in order to be able to continuously learn about objects; these include ego-motion estimation, segmentation, flexible object representation, instance and category recognition, novelty detection, and generalization. We worked towards a benchmark and framework for evaluating continuous object learning systems, as well as proposed a set of baseline component implementations.
-
-**Multi-sensor graph calibration**
-
-Our multi-sensor graph calibration framework solved a real problem for robots: they have a wide variety of sensors mounted in multiple locations that must be fused into a single coordinate frame to most effectively use the information. Our framework utilized a novel background subtraction algorithm, geometry-based alignment features, and graph optimization to generate global relative sensor poses for an arbitrary number of sensors over three different sensor modalities on a robot.
-
-**Temporally consistent segmentation**
-
-One of the first steps in scene understanding using vision is to group pixels into larger chunks for more efficient reasoning. We performed this process of over-segmentation in 3-D and modified an existing voxel clustering algorithm to support consistent segmentations over time given effective ego-motion estimates and clouds of the environment. Temporal consistency enables incremental segmentation of an environment during exploration.
-
-**RGB-D Egomotion and Mapping**
-
-Robots need to know where they are, and one approach to this task is to estimate local motion using vision sensors and simultaneously construct a map of the environment for localization. We developed both sparse and dense implementations for ego-motion estimation, used surface elements for mapping, and GPU acceleration to produce high-resolution maps of the environment and provide accurate local motion estimation using RGB-D sensors.
-
-**Autonomous search and exploration**
-
-**Robot platform development**
-
-`2003-2007`
-
-**Computer Scientist, Software Development Branch, SLAD**
-
-Jun 2003 - Aug 2007
-
-**Joint Blast Analysis Methodology Tool**
-
-Designed and built a modular graphical tool for blast analysis experimentation.
-
-**B-Rep Ray Tracing**
-
-Researched and developed the initial boundary representation module for NURBs primitive rendering in BRL-CAD.
-
-**Exposed Objects Framework**
-
-Researched, designed, and built a GUI application framework using humane human-computer interaction principles. Implemented and integrated MUVES 3 object store with Hibernate as an object-relational mapper.
-
-**RVis (Results Visualizer)**
-
-Designed and developed a prototype 3D vulnerability results viewer for efficiently displaying and querying analysis results. Received enthusiastic feedback during prototype demonstrations.
 
 ## Publications
 
