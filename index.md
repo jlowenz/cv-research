@@ -19,11 +19,11 @@ I enjoy working on hard problems. For the last ~19 years: getting autonomous sys
 
 ### Research interests
 
+- programming environment design
+- knowledge representation and reasoning
+- humane interfaces
 - world models for intelligent agent behavior
 - continuous open-set learning for physical agent perception
-- knowledge representation and reasoning
-- programming language design
-- humane interfaces
 
 ## Research
 
